@@ -43,4 +43,4 @@ python3 geoweather.py
 ![alt text](/examples/menu.png)
 
 ### Example :
-![alt text](/examples/examples.png)
+![alt text](/examples/exemple.png)
